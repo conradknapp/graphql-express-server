@@ -1,5 +1,22 @@
 {
-  "people": [{
-    "id": "1", "name": "Conrad"
-  }]
+  "people": [
+    {
+      "id": "1",
+      "name": "Conrad",
+      "email": "conrad@gmail.com",
+      "password": "alksjdfajk"
+    },
+    {
+      "name": "Ralph Wiggum",
+      "email": "ralph@gmail.com",
+      "password": "opios",
+      "id": "igf1Ptp"
+    },
+    {
+      "name": "Chief Wiggum",
+      "email": "clancy@gmail.com",
+      "password": "bakeemawaytoys",
+      "id": "J0TXcPo"
+    }
+  ]
 }
